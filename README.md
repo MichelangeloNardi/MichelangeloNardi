@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michelangelonardi&label=Profile%20views&color=0e75b6&style=flat" alt="michelangelonardi" /> </p>
 
-- 🔭 I’m currently working on **study of the error landscape of NNs**
+- 🔭 I’m working on several AI projects
 
 - 📫 How to reach me **nardimichelangelo@gmail.com**
 
